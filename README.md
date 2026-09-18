@@ -3,6 +3,7 @@
 ## Abbey Currie, Danyang Chen, Kurt Yang, Karen Thomas
 ## Candidate Project 1
 ### Biomedical Problem
+Physical activity and heart rate trends
 ### Possible Research Question
 We want to investigate the relationship between physical activity intensity and heart rate using Garmin Vivosmart 5 wearable device health data
 ### Data Set
@@ -11,6 +12,7 @@ Anonymized Wearable Sensor Health and Activity Dataset
 Our biggest uncertainty is how to quantify the intensity of an activity 
 ## Candidate Project 2
 ### Biomedical Problem
+Accuracy of another medical device 
 ### Possible Research Question
 We want to investigate the accuracy of Garmin heart rate data compared to ECG data. 
 ### Data Set
