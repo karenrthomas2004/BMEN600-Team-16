@@ -18,4 +18,6 @@ HR Measures From Four Consumer-Grade Optical Heart Rate Sensors with Gold Standa
 ### Biggest Uncertainty
 Our biggest uncertainty is whether Garmin measurement error changes across different heart rates. 
 ## Current Decision
-
+We are currently leaning toward Candidate project 1 
+Because:
+it has a decently large amount of data and the health metrics are easy to understand. 
