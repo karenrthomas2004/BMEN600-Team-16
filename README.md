@@ -57,12 +57,10 @@ Review whole document/ First formal check (meeting TBD)
 Final check 
 Submit by 3pm  
 
-**Saturday  
-**
+**Saturday**
 10th 
  
-**Sunday 
-**
+**Sunday**
 11th 
 4th 
 
