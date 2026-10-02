@@ -22,6 +22,11 @@ Our biggest uncertainty is whether Garmin measurement error changes across diffe
 ## Current Decision
 We are currently leaning toward Candidate Project 1 because it has a decently large amount of data and the health metrics are easy to understand. 
 
+## Project Decision
+Pivot - Our project ideas need to be more novel so we are regrouping over the weekend to redo the research question
+## Team Plan
+Please see it in the uploaded document 
+
 ## Timeline Draft
 **Monday** 
 5th 
