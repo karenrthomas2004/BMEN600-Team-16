@@ -21,3 +21,51 @@ HR Measures From Four Consumer-Grade Optical Heart Rate Sensors with Gold Standa
 Our biggest uncertainty is whether Garmin measurement error changes across different heart rates. 
 ## Current Decision
 We are currently leaning toward Candidate Project 1 because it has a decently large amount of data and the health metrics are easy to understand. 
+
+##Timeline Draft
+Monday 
+5th 
+Zoom 7pm: Finalize topic 
+
+-Email and ask if topic works 
+
+-Assign sections 
+
+- Finish the rest of the timeline  
+
+12th 
+
+Thanksgiving  
+
+Tuesday 
+
+6th 
+13th 
+
+Wednesday 
+
+7th 
+14th 
+Individual sections added to group doc 
+11:59pm 
+
+Thursday 
+8th 
+15th 
+Review whole document/ First formal check (meeting TBD) 
+
+Friday 
+9th 
+16th 
+Final check 
+Submit by 3pm  
+
+Saturday  
+10th 
+ 
+Sunday 
+11th 
+4th 
+
+Individual brainstorm and prep to pitch 1 topic to the group  
+
