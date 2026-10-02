@@ -36,20 +36,17 @@ Zoom 7pm: Finalize topic
 12th 
 Thanksgiving  
 
-**Tuesday 
-**
+**Tuesday**
 6th 
 13th 
 
-**Wednesday 
-**
+**Wednesday**
 7th 
 14th 
 Individual sections added to group doc 
 11:59pm 
 
-**Thursday 
-**
+**Thursday**
 8th 
 15th 
 Review whole document/ First formal check (meeting TBD) 
