@@ -22,8 +22,8 @@ Our biggest uncertainty is whether Garmin measurement error changes across diffe
 ## Current Decision
 We are currently leaning toward Candidate Project 1 because it has a decently large amount of data and the health metrics are easy to understand. 
 
-##Timeline Draft
-Monday 
+## Timeline Draft
+**Monday** 
 5th 
 Zoom 7pm: Finalize topic 
 
@@ -34,36 +34,38 @@ Zoom 7pm: Finalize topic
 - Finish the rest of the timeline  
 
 12th 
-
 Thanksgiving  
 
-Tuesday 
-
+**Tuesday 
+**
 6th 
 13th 
 
-Wednesday 
-
+**Wednesday 
+**
 7th 
 14th 
 Individual sections added to group doc 
 11:59pm 
 
-Thursday 
+**Thursday 
+**
 8th 
 15th 
 Review whole document/ First formal check (meeting TBD) 
 
-Friday 
+**Friday** 
 9th 
 16th 
 Final check 
 Submit by 3pm  
 
-Saturday  
+**Saturday  
+**
 10th 
  
-Sunday 
+**Sunday 
+**
 11th 
 4th 
 
