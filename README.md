@@ -1,73 +1,17 @@
 # BMEN600-Team-16
 ## Group 16
 ## Abbey Currie, Danyang Chen, Kurt Yang, Karen Thomas
-## Candidate Project 1
-### Biomedical Problem
-Physical activity and heart rate trends
-### Possible Research Question
-We want to investigate the relationship between physical activity intensity and heart rate using Garmin Vivosmart 5 wearable device health data
-### Data Set
-Anonymized Wearable Sensor Health and Activity Dataset 
-### Biggest Uncertainty
-Our biggest uncertainty is how to quantify the intensity of an activity 
-## Candidate Project 2
-### Biomedical Problem
-Accuracy of another medical device 
-### Possible Research Question
-We want to investigate the accuracy of Garmin heart rate data compared to ECG data. 
-### Data Set
-HR Measures From Four Consumer-Grade Optical Heart Rate Sensors with Gold Standard ECG Reference 
-### Biggest Uncertainty
-Our biggest uncertainty is whether Garmin measurement error changes across different heart rates. 
-## Current Decision
-We are currently leaning toward Candidate Project 1 because it has a decently large amount of data and the health metrics are easy to understand. 
+## Research Question
+To what extent does chronic disease burden improve the prediction of continuous cognitive performance among adults aged 65 and older beyond demographic characteristics, smoking status, and BMI?
+We compare two predictor sets using linear regression, Random Forest, XGBoost, and CatBoost:
 
-## Project Decision
-Pivot - Our project ideas need to be more novel so we are regrouping over the weekend to redo the research question
-## Team Plan
-Please see it in the uploaded document 
+- **Model 1:** Age, sex, race/ethnicity, education, marital status, smoking, and BMI.
+- **Model 2:** Model 1 predictors plus an unweighted count of seven chronic conditions.
 
-## Timeline Draft
-**Monday** 
-5th 
-Zoom 7pm: Finalize topic 
+The outcome is the official, mode-adjusted cognition score ranging from 0 to 27.
+## Dataset Access
 
--Email and ask if topic works 
+This project uses:
 
--Assign sections 
-
-- Finish the rest of the timeline  
-
-12th 
-Thanksgiving  
-
-**Tuesday**
-6th 
-13th 
-
-**Wednesday**
-7th 
-14th 
-Individual sections added to group doc 
-11:59pm 
-
-**Thursday**
-8th 
-15th 
-Review whole document/ First formal check (meeting TBD) 
-
-**Friday** 
-9th 
-16th 
-Final check 
-Submit by 3pm  
-
-**Saturday**
-10th 
- 
-**Sunday**
-11th 
-4th 
-
-Individual brainstorm and prep to pitch 1 topic to the group  
-
+1. [RAND HRS Longitudinal File 2022, Version 1](https://hrsdata.isr.umich.edu/node/38308)
+2. [HRS Cross-Wave Imputation of Cognitive Functioning Measures 1992–2022, Final Version 2.0](https://hrsdata.isr.umich.edu/data-products/cross-wave-imputation-cognitive-functioning-measures-1992-2022)
