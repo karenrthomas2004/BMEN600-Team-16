@@ -3,6 +3,7 @@
 ## Abbey Currie, Danyang Chen, Kurt Yang, Karen Thomas
 ## Research Question
 To what extent does chronic disease burden improve the prediction of continuous cognitive performance among adults aged 65 and older beyond demographic characteristics, smoking status, and BMI?
+
 We compare two predictor sets using linear regression, Random Forest, XGBoost, and CatBoost:
 
 - **Model 1:** Age, sex, race/ethnicity, education, marital status, smoking, and BMI.
